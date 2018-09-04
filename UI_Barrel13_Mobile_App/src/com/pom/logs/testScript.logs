@@ -1,0 +1,762 @@
+2018-09-03 10:49:43 INFO  TestBase:61 - Driver : Android: null
+2018-09-03 10:49:43 INFO  TestBase:62 - App installed successfully.
+2018-09-03 10:49:48 INFO  TestBase:39 - App closed successfully.
+2018-09-03 10:50:31 INFO  TestBase:95 - Driver : Android: null
+2018-09-03 10:50:31 INFO  TestBase:96 - App installed successfully.
+2018-09-03 10:50:36 INFO  TestBase:39 - App closed successfully.
+2018-09-03 10:51:59 INFO  TestBase:95 - Driver : Android: null
+2018-09-03 10:51:59 INFO  TestBase:96 - App installed successfully.
+2018-09-03 10:52:00 INFO  TestBase:39 - App closed successfully.
+2018-09-03 10:52:19 INFO  TestBase:64 - =================================================================================
+2018-09-03 10:52:30 INFO  TestBase:86 - Driver : Android: null
+2018-09-03 10:52:30 INFO  TestBase:90 - App launched successfully.
+2018-09-03 10:52:30 INFO  TC_002_VerifyLoginLogout:21 - ======= starting testLogin() test========
+2018-09-03 10:52:33 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 10:52:33 INFO  HomePage:43 - clicked on Login button
+2018-09-03 10:52:40 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 10:52:46 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 10:52:50 INFO  LoginPage:53 - clicked on login button
+2018-09-03 10:52:54 INFO  DashboardPage:44 - Header Name is : DASHBOARD
+2018-09-03 10:52:54 INFO  TC_002_VerifyLoginLogout:31 - ======= finished testLogin() test========
+2018-09-03 10:52:54 INFO  TC_002_VerifyLoginLogout:45 - ======= starting testLogout() test========
+2018-09-03 10:52:55 INFO  DashboardPage:44 - clicked on Menu Option.
+2018-09-03 10:53:01 INFO  DashboardPage:44 - clicked on sub menu Settings from Menu Option.
+2018-09-03 10:53:07 INFO  DashboardPage:44 - clicked on Logout.
+2018-09-03 10:53:08 INFO  DashboardPage:44 - clicked on Confirm button.
+2018-09-03 10:53:10 INFO  TC_002_VerifyLoginLogout:53 - ======= finished testLogout() test========
+2018-09-03 10:53:12 INFO  TestBase:138 - App closed successfully.
+2018-09-03 10:54:14 INFO  TestBase:64 - =================================================================================
+2018-09-03 10:54:25 INFO  TestBase:86 - Driver : Android: null
+2018-09-03 10:54:25 INFO  TestBase:90 - App launched successfully.
+2018-09-03 10:54:25 INFO  TC_001_VerifyLoginScreenHeaderName:19 - ======= starting testLoginScreenHeaderName() test========
+2018-09-03 10:54:28 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 10:54:29 INFO  HomePage:43 - clicked on Login button
+2018-09-03 10:54:29 INFO  LoginPage:53 - header name is : LOGIN
+2018-09-03 10:54:29 INFO  TC_001_VerifyLoginScreenHeaderName:26 - ======= finished testLoginScreenHeaderName() test========
+2018-09-03 10:54:31 INFO  TestBase:138 - App closed successfully.
+2018-09-03 12:07:54 INFO  TestBase:64 - =================================================================================
+2018-09-03 12:08:15 INFO  TestBase:64 - =================================================================================
+2018-09-03 12:08:31 INFO  TestBase:86 - Driver : Android: null
+2018-09-03 12:08:31 INFO  TestBase:90 - App launched successfully.
+2018-09-03 12:08:31 INFO  TC_001_VerifyDashboardScreenHeaderName:20 - ======= starting testDashboardScreenHeaderName() test========
+2018-09-03 12:08:33 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 12:08:34 INFO  HomePage:43 - clicked on Login button
+2018-09-03 12:08:40 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 12:08:46 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 12:08:50 INFO  LoginPage:53 - clicked on login button
+2018-09-03 12:08:54 INFO  DashboardPage:52 - Header Name is : DASHBOARD
+2018-09-03 12:08:54 INFO  TC_001_VerifyDashboardScreenHeaderName:30 - ======= finished testDashboardScreenHeaderName() test========
+2018-09-03 12:08:56 INFO  TestBase:138 - App closed successfully.
+2018-09-03 12:31:00 INFO  TestBase:64 - =================================================================================
+2018-09-03 12:31:14 INFO  TestBase:86 - Driver : Android: null
+2018-09-03 12:31:14 INFO  TestBase:90 - App launched successfully.
+2018-09-03 12:31:14 INFO  TC_002_VerifyDashboardShortlistDisplayed:20 - ======= starting testDashboardShortlistDisplayed() test========
+2018-09-03 12:31:16 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 12:31:17 INFO  HomePage:43 - clicked on Login button
+2018-09-03 12:31:23 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 12:31:29 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 12:31:34 INFO  LoginPage:53 - clicked on login button
+2018-09-03 12:31:37 INFO  TC_002_VerifyDashboardShortlistDisplayed:30 - ======= finished testDashboardShortlistDisplayed() test========
+2018-09-03 12:31:39 INFO  TestBase:138 - App closed successfully.
+2018-09-03 12:31:54 INFO  TestBase:64 - =================================================================================
+2018-09-03 12:32:06 INFO  TestBase:86 - Driver : Android: null
+2018-09-03 12:32:06 INFO  TestBase:90 - App launched successfully.
+2018-09-03 12:32:06 INFO  TC_002_VerifyDashboardShortlistDisplayed:20 - ======= starting testDashboardShortlistDisplayed() test========
+2018-09-03 12:32:09 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 12:32:10 INFO  HomePage:43 - clicked on Login button
+2018-09-03 12:32:16 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 12:32:22 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 12:32:27 INFO  LoginPage:53 - clicked on login button
+2018-09-03 12:32:34 INFO  TestBase:138 - App closed successfully.
+2018-09-03 12:33:03 INFO  TestBase:64 - =================================================================================
+2018-09-03 12:33:14 INFO  TestBase:86 - Driver : Android: null
+2018-09-03 12:33:14 INFO  TestBase:90 - App launched successfully.
+2018-09-03 12:33:14 INFO  TC_002_VerifyDashboardShortlistDisplayed:20 - ======= starting testDashboardShortlistDisplayed() test========
+2018-09-03 12:33:16 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 12:33:17 INFO  HomePage:43 - clicked on Login button
+2018-09-03 12:33:24 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 12:33:30 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 12:33:34 INFO  LoginPage:53 - clicked on login button
+2018-09-03 12:33:40 INFO  TestBase:138 - App closed successfully.
+2018-09-03 12:35:24 INFO  TestBase:64 - =================================================================================
+2018-09-03 12:35:34 INFO  TestBase:86 - Driver : Android: null
+2018-09-03 12:35:34 INFO  TestBase:90 - App launched successfully.
+2018-09-03 12:35:34 INFO  TC_002_VerifyDashboardShortlistDisplayed:20 - ======= starting testDashboardShortlistDisplayed() test========
+2018-09-03 12:35:37 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 12:35:38 INFO  HomePage:43 - clicked on Login button
+2018-09-03 12:35:44 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 12:36:16 INFO  TestBase:64 - =================================================================================
+2018-09-03 12:36:27 INFO  TestBase:86 - Driver : Android: null
+2018-09-03 12:36:27 INFO  TestBase:90 - App launched successfully.
+2018-09-03 12:36:27 INFO  TC_002_VerifyDashboardShortlistDisplayed:20 - ======= starting testDashboardShortlistDisplayed() test========
+2018-09-03 12:36:30 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 12:36:31 INFO  HomePage:43 - clicked on Login button
+2018-09-03 12:36:38 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 12:36:44 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 12:36:48 INFO  LoginPage:53 - clicked on login button
+2018-09-03 12:36:50 INFO  DashboardPage:71 - shortlist button current status is : true
+2018-09-03 12:36:50 INFO  TC_002_VerifyDashboardShortlistDisplayed:30 - ======= finished testDashboardShortlistDisplayed() test========
+2018-09-03 12:36:52 INFO  TestBase:138 - App closed successfully.
+2018-09-03 12:37:02 INFO  TestBase:64 - =================================================================================
+2018-09-03 12:37:14 INFO  TestBase:86 - Driver : Android: null
+2018-09-03 12:37:14 INFO  TestBase:90 - App launched successfully.
+2018-09-03 12:37:14 INFO  TC_001_VerifyDashboardScreenHeaderName:20 - ======= starting testDashboardScreenHeaderName() test========
+2018-09-03 12:37:17 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 12:37:18 INFO  HomePage:43 - clicked on Login button
+2018-09-03 12:37:24 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 12:37:30 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 12:37:34 INFO  LoginPage:53 - clicked on login button
+2018-09-03 12:37:43 INFO  TestBase:64 - =================================================================================
+2018-09-03 12:37:56 INFO  TestBase:86 - Driver : Android: null
+2018-09-03 12:37:56 INFO  TestBase:90 - App launched successfully.
+2018-09-03 12:37:56 INFO  TC_002_VerifyLoginLogout:21 - ======= starting testLogin() test========
+2018-09-03 12:37:59 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 12:38:00 INFO  HomePage:43 - clicked on Login button
+2018-09-03 12:38:06 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 12:38:12 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 12:38:16 INFO  LoginPage:53 - clicked on login button
+2018-09-03 12:38:21 INFO  DashboardPage:71 - Header Name is : DASHBOARD
+2018-09-03 12:38:21 INFO  TC_002_VerifyLoginLogout:31 - ======= finished testLogin() test========
+2018-09-03 12:38:21 INFO  TC_002_VerifyLoginLogout:45 - ======= starting testLogout() test========
+2018-09-03 12:38:22 INFO  DashboardPage:71 - clicked on Menu Option.
+2018-09-03 12:38:28 INFO  DashboardPage:71 - clicked on sub menu Settings from Menu Option.
+2018-09-03 12:38:34 INFO  DashboardPage:71 - clicked on Logout.
+2018-09-03 12:38:35 INFO  DashboardPage:71 - clicked on Confirm button.
+2018-09-03 12:38:36 INFO  TC_002_VerifyLoginLogout:53 - ======= finished testLogout() test========
+2018-09-03 12:38:38 INFO  TestBase:138 - App closed successfully.
+2018-09-03 12:40:06 INFO  TestBase:64 - =================================================================================
+2018-09-03 12:40:17 INFO  TestBase:86 - Driver : Android: null
+2018-09-03 12:40:17 INFO  TestBase:90 - App launched successfully.
+2018-09-03 12:40:17 INFO  TC_002_VerifyLoginLogout:21 - ======= starting testLogin() test========
+2018-09-03 12:40:20 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 12:40:21 INFO  HomePage:43 - clicked on Login button
+2018-09-03 12:40:27 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 12:40:33 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 12:40:37 INFO  LoginPage:53 - clicked on login button
+2018-09-03 12:40:39 INFO  DashboardPage:71 - Header Name is : DASHBOARD
+2018-09-03 12:40:40 INFO  TC_002_VerifyLoginLogout:31 - ======= finished testLogin() test========
+2018-09-03 12:40:40 INFO  TC_002_VerifyLoginLogout:45 - ======= starting testLogout() test========
+2018-09-03 12:40:42 INFO  DashboardPage:71 - clicked on Menu Option.
+2018-09-03 12:40:47 INFO  DashboardPage:71 - clicked on sub menu Settings from Menu Option.
+2018-09-03 12:40:54 INFO  DashboardPage:71 - clicked on Logout.
+2018-09-03 12:40:55 INFO  DashboardPage:71 - clicked on Confirm button.
+2018-09-03 12:40:56 INFO  TC_002_VerifyLoginLogout:53 - ======= finished testLogout() test========
+2018-09-03 12:40:58 INFO  TestBase:138 - App closed successfully.
+2018-09-03 12:43:39 INFO  TestBase:85 - Driver : Android: null
+2018-09-03 12:43:39 INFO  TestBase:89 - App launched successfully.
+2018-09-03 12:43:39 INFO  TC_002_VerifyLoginLogout:21 - ======= starting testLogin() test========
+2018-09-03 12:43:41 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 12:43:42 INFO  HomePage:43 - clicked on Login button
+2018-09-03 12:43:48 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 12:43:54 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 12:43:59 INFO  LoginPage:53 - clicked on login button
+2018-09-03 12:44:01 INFO  DashboardPage:71 - Header Name is : DASHBOARD
+2018-09-03 12:44:03 INFO  TC_002_VerifyLoginLogout:31 - ======= finished testLogin() test========
+2018-09-03 12:44:03 INFO  TC_002_VerifyLoginLogout:45 - ======= starting testLogout() test========
+2018-09-03 12:44:04 INFO  DashboardPage:71 - clicked on Menu Option.
+2018-09-03 12:44:09 INFO  DashboardPage:71 - clicked on sub menu Settings from Menu Option.
+2018-09-03 12:44:16 INFO  DashboardPage:71 - clicked on Logout.
+2018-09-03 12:44:16 INFO  DashboardPage:71 - clicked on Confirm button.
+2018-09-03 12:44:18 INFO  TC_002_VerifyLoginLogout:53 - ======= finished testLogout() test========
+2018-09-03 12:44:20 INFO  TestBase:137 - App closed successfully.
+2018-09-03 12:50:54 INFO  TestBase:82 - Driver : Android: null
+2018-09-03 12:50:54 INFO  TestBase:86 - App launched successfully.
+2018-09-03 12:50:54 INFO  TC_002_VerifyDashboardShortlistDisplayed:20 - ======= starting testDashboardShortlistDisplayed() test========
+2018-09-03 12:50:57 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 12:50:58 INFO  HomePage:43 - clicked on Login button
+2018-09-03 12:51:04 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 12:51:10 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 12:51:14 INFO  LoginPage:53 - clicked on login button
+2018-09-03 12:51:18 INFO  DashboardPage:71 - shortlist button current status is : true
+2018-09-03 12:51:18 INFO  TC_002_VerifyDashboardShortlistDisplayed:30 - ======= finished testDashboardShortlistDisplayed() test========
+2018-09-03 12:51:20 INFO  TestBase:134 - App closed successfully.
+2018-09-03 12:53:17 INFO  TestBase:80 - Driver : Android: null
+2018-09-03 12:53:17 INFO  TestBase:84 - App launched successfully.
+2018-09-03 12:53:17 INFO  TC_003_VerifySignUpScreenHeaderName:19 - ======= starting testSignUpScreenHeaderName() test========
+2018-09-03 12:53:20 INFO  HomePage:43 - signup button is enabled and displayed.
+2018-09-03 12:53:20 INFO  HomePage:43 - clicked on Sign up button
+2018-09-03 12:53:21 INFO  HomePage:43 - Already a Seller On Amazon Button is enabled and displayed.
+2018-09-03 12:53:22 INFO  HomePage:43 - clicked on Already a Seller On Amazon Button.
+2018-09-03 12:53:23 INFO  SignUpPage:87 - Header Name is : CREATE ACCOUNT
+2018-09-03 12:53:23 INFO  TC_003_VerifySignUpScreenHeaderName:26 - ======= finished testSignUpScreenHeaderName() test========
+2018-09-03 12:53:25 INFO  TestBase:133 - App closed successfully.
+2018-09-03 12:54:20 INFO  TestBase:81 - Driver : Android: null
+2018-09-03 12:54:20 INFO  TestBase:85 - App launched successfully.
+2018-09-03 12:54:20 INFO  TC_003_VerifySignUpScreenHeaderName:19 - ======= starting testSignUpScreenHeaderName() test========
+2018-09-03 12:54:22 INFO  HomePage:43 - signup button is enabled and displayed.
+2018-09-03 12:54:23 INFO  HomePage:43 - clicked on Sign up button
+2018-09-03 12:54:23 INFO  HomePage:43 - Already a Seller On Amazon Button is enabled and displayed.
+2018-09-03 12:54:24 INFO  HomePage:43 - clicked on Already a Seller On Amazon Button.
+2018-09-03 12:54:25 INFO  SignUpPage:87 - Header Name is : CREATE ACCOUNT
+2018-09-03 12:54:25 INFO  TC_003_VerifySignUpScreenHeaderName:26 - ======= finished testSignUpScreenHeaderName() test========
+2018-09-03 12:54:27 INFO  TestBase:134 - App closed successfully.
+2018-09-03 13:00:19 INFO  TestBase:84 - App launched successfully.
+2018-09-03 13:00:19 INFO  TC_002_VerifyDashboardShortlistDisplayed:20 - ======= starting testDashboardShortlistDisplayed() test========
+2018-09-03 13:00:22 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 13:00:22 INFO  HomePage:43 - clicked on Login button
+2018-09-03 13:00:29 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 13:00:35 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 13:00:39 INFO  LoginPage:53 - clicked on login button
+2018-09-03 13:00:44 INFO  DashboardPage:71 - shortlist button current status is : true
+2018-09-03 13:00:44 INFO  TC_002_VerifyDashboardShortlistDisplayed:30 - ======= finished testDashboardShortlistDisplayed() test========
+2018-09-03 13:00:47 INFO  TestBase:133 - App closed successfully.
+2018-09-03 14:04:18 INFO  TestBase:84 - App launched successfully.
+2018-09-03 14:04:18 INFO  TC_003_VerifyDashboardProductDatabaseDisplayed:20 - ======= starting testDashboardProductDatabaseDisplayed() test========
+2018-09-03 14:04:20 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 14:04:21 INFO  HomePage:43 - clicked on Login button
+2018-09-03 14:04:27 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 14:04:34 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 14:04:38 INFO  LoginPage:53 - clicked on login button
+2018-09-03 14:04:41 INFO  DashboardPage:71 - Product Database button current status is : true
+2018-09-03 14:04:42 INFO  TC_003_VerifyDashboardProductDatabaseDisplayed:30 - ======= finished testDashboardProductDatabaseDisplayed() test========
+2018-09-03 14:04:44 INFO  TestBase:133 - App closed successfully.
+2018-09-03 14:07:43 INFO  TestBase:84 - App launched successfully.
+2018-09-03 14:07:43 INFO  TC_004_VerifyDashboardCategoryDisplayed:20 - ======= starting testDashboardCategoryDisplayed() test========
+2018-09-03 14:07:45 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 14:07:46 INFO  HomePage:43 - clicked on Login button
+2018-09-03 14:07:52 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 14:07:58 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 14:08:02 INFO  LoginPage:53 - clicked on login button
+2018-09-03 14:08:06 INFO  DashboardPage:71 - Category current status is : true
+2018-09-03 14:08:06 INFO  TC_004_VerifyDashboardCategoryDisplayed:30 - ======= finished testDashboardCategoryDisplayed() test========
+2018-09-03 14:08:08 INFO  TestBase:133 - App closed successfully.
+2018-09-03 14:08:53 INFO  TestBase:84 - App launched successfully.
+2018-09-03 14:08:53 INFO  TC_004_VerifyDashboardCategoryDisplayed:20 - ======= starting testDashboardCategoryDisplayed() test========
+2018-09-03 14:08:55 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 14:08:56 INFO  HomePage:43 - clicked on Login button
+2018-09-03 14:09:02 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 14:09:08 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 14:09:13 INFO  LoginPage:53 - clicked on login button
+2018-09-03 14:09:17 INFO  DashboardPage:71 - Category current status is : true
+2018-09-03 14:09:17 INFO  TC_004_VerifyDashboardCategoryDisplayed:30 - ======= finished testDashboardCategoryDisplayed() test========
+2018-09-03 14:09:19 INFO  TestBase:133 - App closed successfully.
+2018-09-03 14:12:51 INFO  TestBase:84 - App launched successfully.
+2018-09-03 14:12:51 INFO  TC_005_VerifyDashboardLeftToAddTrackerDisplayed:20 - ======= starting testDashboardLeftToAddTrackerDisplayed() test========
+2018-09-03 14:12:53 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 14:12:54 INFO  HomePage:43 - clicked on Login button
+2018-09-03 14:13:00 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 14:13:07 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 14:13:11 INFO  LoginPage:53 - clicked on login button
+2018-09-03 14:13:15 INFO  DashboardPage:71 - no of category in tracker current status is : true
+2018-09-03 14:13:15 INFO  TC_005_VerifyDashboardLeftToAddTrackerDisplayed:30 - ======= finished testDashboardLeftToAddTrackerDisplayed() test========
+2018-09-03 14:13:18 INFO  TestBase:133 - App closed successfully.
+2018-09-03 14:14:58 INFO  TestBase:84 - App launched successfully.
+2018-09-03 14:14:58 INFO  TC_005_VerifyDashboardLeftToAddTrackerDisplayed:20 - ======= starting testDashboardLeftToAddTrackerDisplayed() test========
+2018-09-03 14:15:01 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 14:15:02 INFO  HomePage:43 - clicked on Login button
+2018-09-03 14:15:08 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 14:15:14 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 14:15:18 INFO  LoginPage:53 - clicked on login button
+2018-09-03 14:15:27 INFO  DashboardPage:71 - no of category in tracker current status is : true
+2018-09-03 14:15:27 INFO  TC_005_VerifyDashboardLeftToAddTrackerDisplayed:30 - ======= finished testDashboardLeftToAddTrackerDisplayed() test========
+2018-09-03 14:15:29 INFO  TestBase:133 - App closed successfully.
+2018-09-03 14:24:10 INFO  TestBase:84 - App launched successfully.
+2018-09-03 14:24:10 INFO  TC_005_VerifyDashboardLeftToAddTrackerDisplayed:20 - ======= starting testDashboardLeftToAddTrackerDisplayed() test========
+2018-09-03 14:24:13 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 14:24:14 INFO  HomePage:43 - clicked on Login button
+2018-09-03 14:24:19 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 14:24:26 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 14:24:30 INFO  LoginPage:53 - clicked on login button
+2018-09-03 14:24:38 INFO  DashboardPage:78 - left to add tracker current status is : true
+2018-09-03 14:24:38 INFO  TC_005_VerifyDashboardLeftToAddTrackerDisplayed:30 - ======= finished testDashboardLeftToAddTrackerDisplayed() test========
+2018-09-03 14:24:41 INFO  TestBase:133 - App closed successfully.
+2018-09-03 14:41:43 INFO  TestBase:84 - App launched successfully.
+2018-09-03 14:41:43 INFO  TC_006_VerifyDashboardFluctuationInPriceDisplayed:20 - ======= starting testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 14:41:45 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 14:41:46 INFO  HomePage:43 - clicked on Login button
+2018-09-03 14:41:52 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 14:41:58 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 14:42:02 INFO  LoginPage:53 - clicked on login button
+2018-09-03 14:42:16 INFO  DashboardPage:94 - clicked on flcutuate option icon.
+2018-09-03 14:42:17 INFO  DashboardPage:94 - clicked on flcutuate in price Option.
+2018-09-03 14:42:55 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:35 - Exception is: Can't locate an element by this strategy: Locator map: 
+- native content: "By.chained({By.id: txt_flcutuate_option})" 
+- html content: "by id or name "txt_Flcutuate""
+2018-09-03 14:42:55 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:36 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@21263314 (tried for 1 second(s) with 500 milliseconds interval)
+2018-09-03 14:42:55 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:37 - ======= finished testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 14:42:58 INFO  TestBase:133 - App closed successfully.
+2018-09-03 14:47:11 INFO  TestBase:84 - App launched successfully.
+2018-09-03 14:47:11 INFO  TC_006_VerifyDashboardFluctuationInPriceDisplayed:20 - ======= starting testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 14:47:14 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 14:47:14 INFO  HomePage:43 - clicked on Login button
+2018-09-03 14:47:21 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 14:47:27 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 14:47:32 INFO  LoginPage:53 - clicked on login button
+2018-09-03 14:48:47 INFO  TestBase:84 - App launched successfully.
+2018-09-03 14:48:47 INFO  TC_006_VerifyDashboardFluctuationInPriceDisplayed:20 - ======= starting testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 14:48:50 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 14:48:50 INFO  HomePage:43 - clicked on Login button
+2018-09-03 14:48:56 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 14:49:02 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 14:49:07 INFO  LoginPage:53 - clicked on login button
+2018-09-03 14:49:16 INFO  DashboardPage:91 - clicked on flcutuate option icon.
+2018-09-03 14:49:17 INFO  DashboardPage:91 - clicked on flcutuate in price Option.
+2018-09-03 14:50:53 INFO  TestBase:84 - App launched successfully.
+2018-09-03 14:50:53 INFO  TC_006_VerifyDashboardFluctuationInPriceDisplayed:20 - ======= starting testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 14:50:55 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 14:50:56 INFO  HomePage:43 - clicked on Login button
+2018-09-03 14:51:02 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 14:51:08 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 14:51:12 INFO  LoginPage:53 - clicked on login button
+2018-09-03 14:51:52 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:35 - Exception is: Can't locate an element by this strategy: Locator map: 
+- native content: "By.chained({By.id: img_fluctuate})" 
+- html content: "by id or name "flcutuateOptionElement""
+2018-09-03 14:51:52 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:36 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@57fbc06f (tried for 1 second(s) with 500 milliseconds interval)
+2018-09-03 14:51:52 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:37 - ======= finished testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 14:51:54 INFO  TestBase:133 - App closed successfully.
+2018-09-03 14:53:09 INFO  TestBase:84 - App launched successfully.
+2018-09-03 14:53:09 INFO  TC_006_VerifyDashboardFluctuationInPriceDisplayed:20 - ======= starting testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 14:53:12 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 14:53:12 INFO  HomePage:43 - clicked on Login button
+2018-09-03 14:53:19 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 14:53:25 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 14:53:29 INFO  LoginPage:53 - clicked on login button
+2018-09-03 14:53:37 INFO  DashboardPage:91 - clicked on flcutuate option icon.
+2018-09-03 14:53:38 INFO  DashboardPage:91 - clicked on flcutuate in price Option.
+2018-09-03 14:55:46 INFO  TestBase:84 - App launched successfully.
+2018-09-03 14:55:46 INFO  TC_006_VerifyDashboardFluctuationInPriceDisplayed:20 - ======= starting testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 14:55:49 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 14:55:51 INFO  HomePage:43 - clicked on Login button
+2018-09-03 14:55:57 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 14:56:04 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 14:56:08 INFO  LoginPage:53 - clicked on login button
+2018-09-03 14:56:18 INFO  DashboardPage:91 - clicked on flcutuate option icon.
+2018-09-03 14:56:18 INFO  DashboardPage:91 - clicked on flcutuate in price Option.
+2018-09-03 14:56:20 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:35 - Exception is: Can't locate an element by this strategy: Locator map: 
+- native content: "By.chained({By.xpath: //android.widget.TextView[contains(@text,'FLUCTUATION IN PRICE']})" 
+- html content: "by id or name "txt_Flcutuate""
+2018-09-03 14:56:20 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:36 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@7bdf61ad (tried for 1 second(s) with 500 milliseconds interval)
+2018-09-03 14:56:20 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:37 - ======= finished testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 14:56:22 INFO  TestBase:133 - App closed successfully.
+2018-09-03 14:58:28 INFO  TestBase:84 - App launched successfully.
+2018-09-03 14:58:28 INFO  TC_006_VerifyDashboardFluctuationInPriceDisplayed:20 - ======= starting testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 14:58:31 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 14:58:32 INFO  HomePage:43 - clicked on Login button
+2018-09-03 14:58:38 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 14:58:44 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 14:58:48 INFO  LoginPage:53 - clicked on login button
+2018-09-03 14:58:58 INFO  DashboardPage:91 - clicked on flcutuate option icon.
+2018-09-03 14:58:59 INFO  DashboardPage:91 - clicked on flcutuate in price Option.
+2018-09-03 15:00:26 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:35 - Exception is: Can't locate an element by this strategy: Locator map: 
+- native content: "By.chained({By.xpath: //android.widget.TextView[@text='FLUCTUATION IN PRICE']})" 
+- html content: "by id or name "txt_Flcutuate""
+2018-09-03 15:00:26 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:36 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@3fa21d49 (tried for 1 second(s) with 500 milliseconds interval)
+2018-09-03 15:00:26 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:37 - ======= finished testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 15:01:07 INFO  TestBase:84 - App launched successfully.
+2018-09-03 15:01:07 INFO  TC_006_VerifyDashboardFluctuationInPriceDisplayed:20 - ======= starting testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 15:01:10 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 15:01:11 INFO  HomePage:43 - clicked on Login button
+2018-09-03 15:01:18 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 15:01:23 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 15:01:27 INFO  LoginPage:53 - clicked on login button
+2018-09-03 15:01:43 INFO  DashboardPage:91 - clicked on flcutuate option icon.
+2018-09-03 15:01:44 INFO  DashboardPage:91 - clicked on flcutuate in price Option.
+2018-09-03 15:02:24 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:35 - Exception is: Can't locate an element by this strategy: Locator map: 
+- native content: "By.chained({By.id: txt_flcutuate_option})" 
+- html content: "by id or name "txt_Flcutuate""
+2018-09-03 15:02:24 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:36 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@416d56f2 (tried for 1 second(s) with 500 milliseconds interval)
+2018-09-03 15:02:24 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:37 - ======= finished testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 15:02:26 INFO  TestBase:133 - App closed successfully.
+2018-09-03 15:06:54 INFO  TestBase:84 - App launched successfully.
+2018-09-03 15:06:54 INFO  TC_006_VerifyDashboardFluctuationInPriceDisplayed:20 - ======= starting testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 15:06:57 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 15:06:58 INFO  HomePage:43 - clicked on Login button
+2018-09-03 15:07:04 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 15:07:09 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 15:07:14 INFO  LoginPage:53 - clicked on login button
+2018-09-03 15:07:22 INFO  DashboardPage:91 - clicked on flcutuate option icon.
+2018-09-03 15:07:24 INFO  DashboardPage:91 - clicked on flcutuate in price Option.
+2018-09-03 15:15:48 INFO  TestBase:84 - App launched successfully.
+2018-09-03 15:15:48 INFO  TC_006_VerifyDashboardFluctuationInPriceDisplayed:20 - ======= starting testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 15:15:50 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 15:15:51 INFO  HomePage:43 - clicked on Login button
+2018-09-03 15:15:57 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 15:16:03 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 15:16:07 INFO  LoginPage:53 - clicked on login button
+2018-09-03 15:16:19 INFO  DashboardPage:91 - clicked on flcutuate option icon.
+2018-09-03 15:16:49 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:35 - Exception is: Can't locate an element by this strategy: Locator map: 
+- native content: "By.chained({By.xpath: //android.widget.TextView[@text='Fluctuation in Price']})" 
+- html content: "by id or name "link_FlcutuateInPrice""
+2018-09-03 15:16:49 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:36 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@6c8dbf56 (tried for 1 second(s) with 500 milliseconds interval)
+2018-09-03 15:16:49 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:37 - ======= finished testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 15:16:51 INFO  TestBase:133 - App closed successfully.
+2018-09-03 15:22:35 INFO  TestBase:84 - App launched successfully.
+2018-09-03 15:22:35 INFO  TC_008_VerifyDashboardRecentlyTrackedBrandsDisplayed:20 - ======= starting testDashboardRecentlyTrackedBrandsDisplayed() test========
+2018-09-03 15:22:38 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 15:22:40 INFO  HomePage:43 - clicked on Login button
+2018-09-03 15:22:46 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 15:22:52 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 15:22:56 INFO  LoginPage:53 - clicked on login button
+2018-09-03 15:23:12 INFO  DashboardPage:95 - recent Tracked Brands current status is : true
+2018-09-03 15:23:13 INFO  TC_008_VerifyDashboardRecentlyTrackedBrandsDisplayed:30 - ======= finished testDashboardRecentlyTrackedBrandsDisplayed() test========
+2018-09-03 15:23:15 INFO  TestBase:133 - App closed successfully.
+2018-09-03 15:24:52 INFO  TestBase:84 - App launched successfully.
+2018-09-03 15:24:52 INFO  TC_008_VerifyDashboardRecentlyTrackedBrandsDisplayed:20 - ======= starting testDashboardRecentlyTrackedBrandsDisplayed() test========
+2018-09-03 15:24:54 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 15:24:55 INFO  HomePage:43 - clicked on Login button
+2018-09-03 15:25:01 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 15:25:07 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 15:25:11 INFO  LoginPage:53 - clicked on login button
+2018-09-03 15:25:22 INFO  DashboardPage:95 - recent Tracked Brands current status is : true
+2018-09-03 15:25:22 INFO  TC_008_VerifyDashboardRecentlyTrackedBrandsDisplayed:30 - ======= finished testDashboardRecentlyTrackedBrandsDisplayed() test========
+2018-09-03 15:25:24 INFO  TestBase:133 - App closed successfully.
+2018-09-03 15:29:59 INFO  TestBase:84 - App launched successfully.
+2018-09-03 15:29:59 INFO  TC_009_VerifyDashboardRecentlyTrackedSellersDisplayed:20 - ======= starting testDashboardRecentlyTrackedSellersDisplayed() test========
+2018-09-03 15:30:01 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 15:30:02 INFO  HomePage:43 - clicked on Login button
+2018-09-03 15:30:08 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 15:30:14 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 15:30:19 INFO  LoginPage:53 - clicked on login button
+2018-09-03 15:30:30 INFO  DashboardPage:99 - recent tracked sellers current display status is : true
+2018-09-03 15:30:30 INFO  TC_009_VerifyDashboardRecentlyTrackedSellersDisplayed:30 - ======= finished testDashboardRecentlyTrackedSellersDisplayed() test========
+2018-09-03 15:30:32 INFO  TestBase:133 - App closed successfully.
+2018-09-03 15:53:11 INFO  TestBase:84 - App launched successfully.
+2018-09-03 15:53:11 INFO  TC_010_VerifyDashboardActivePlansDisplayed:20 - ======= starting testDashboardActivePlansDisplayed() test========
+2018-09-03 15:53:15 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 15:53:15 INFO  HomePage:43 - clicked on Login button
+2018-09-03 15:53:21 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 15:53:28 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 15:53:32 INFO  LoginPage:53 - clicked on login button
+2018-09-03 15:53:44 INFO  DashboardPage:103 - active plan current display status is : true
+2018-09-03 15:53:45 INFO  TC_010_VerifyDashboardActivePlansDisplayed:30 - ======= finished testDashboardActivePlansDisplayed() test========
+2018-09-03 15:53:47 INFO  TestBase:133 - App closed successfully.
+2018-09-03 15:58:53 INFO  TestBase:84 - App launched successfully.
+2018-09-03 15:58:53 INFO  TC_006_VerifyDashboardFluctuationInPriceDisplayed:20 - ======= starting testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 15:58:55 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 15:58:58 INFO  HomePage:43 - clicked on Login button
+2018-09-03 15:59:04 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 15:59:11 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 15:59:15 INFO  LoginPage:53 - clicked on login button
+2018-09-03 15:59:25 INFO  DashboardPage:103 - clicked on flcutuate option icon.
+2018-09-03 15:59:26 INFO  DashboardPage:103 - clicked on flcutuate in price Option.
+2018-09-03 16:00:45 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:35 - Exception is: Can't locate an element by this strategy: Locator map: 
+- native content: "By.chained({By.xpath: //android.widget.TextView[@text='FLUCTUATION IN PRICE' and @index='0']})" 
+- html content: "by id or name "txt_Flcutuation""
+2018-09-03 16:00:45 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:36 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@7066363 (tried for 1 second(s) with 500 milliseconds interval)
+2018-09-03 16:00:45 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:37 - ======= finished testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 16:01:33 INFO  TestBase:84 - App launched successfully.
+2018-09-03 16:01:33 INFO  TC_006_VerifyDashboardFluctuationInPriceDisplayed:20 - ======= starting testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 16:01:36 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 16:01:37 INFO  HomePage:43 - clicked on Login button
+2018-09-03 16:01:43 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 16:01:49 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 16:01:53 INFO  LoginPage:53 - clicked on login button
+2018-09-03 16:02:02 INFO  DashboardPage:103 - clicked on flcutuate option icon.
+2018-09-03 16:02:03 INFO  DashboardPage:103 - clicked on flcutuate in price Option.
+2018-09-03 16:02:05 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:35 - Exception is: Can't locate an element by this strategy: Locator map: 
+- native content: "By.chained({By.xpath: //android.widget.TextView[contains(@text,'FLUCTUATION IN PRICE']})" 
+- html content: "by id or name "txt_Flcutuation""
+2018-09-03 16:02:05 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:36 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@715a70e9 (tried for 1 second(s) with 500 milliseconds interval)
+2018-09-03 16:02:05 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:37 - ======= finished testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 16:02:08 INFO  TestBase:133 - App closed successfully.
+2018-09-03 16:03:55 INFO  TestBase:84 - App launched successfully.
+2018-09-03 16:03:55 INFO  TC_006_VerifyDashboardFluctuationInPriceDisplayed:20 - ======= starting testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 16:03:58 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 16:03:59 INFO  HomePage:43 - clicked on Login button
+2018-09-03 16:04:05 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 16:04:11 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 16:04:15 INFO  LoginPage:53 - clicked on login button
+2018-09-03 16:04:23 INFO  DashboardPage:103 - clicked on flcutuate option icon.
+2018-09-03 16:04:24 INFO  DashboardPage:103 - clicked on flcutuate in price Option.
+2018-09-03 16:07:40 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:35 - Exception is: Can't locate an element by this strategy: Locator map: 
+- native content: "By.chained({By.xpath: //android.widget.TextView[contains(@text,'FLUCTUATION IN PRICE')]})" 
+- html content: "by id or name "txt_Flcutuation""
+2018-09-03 16:07:40 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:36 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@75b38c36 (tried for 1 second(s) with 500 milliseconds interval)
+2018-09-03 16:07:40 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:37 - ======= finished testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 16:08:11 INFO  TestBase:84 - App launched successfully.
+2018-09-03 16:08:11 INFO  TC_006_VerifyDashboardFluctuationInPriceDisplayed:20 - ======= starting testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 16:08:14 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 16:08:15 INFO  HomePage:43 - clicked on Login button
+2018-09-03 16:08:21 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 16:08:27 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 16:08:32 INFO  LoginPage:53 - clicked on login button
+2018-09-03 16:08:40 INFO  DashboardPage:103 - clicked on flcutuate option icon.
+2018-09-03 16:08:41 INFO  DashboardPage:103 - clicked on flcutuate in price Option.
+2018-09-03 16:10:18 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:35 - Exception is: Can't locate an element by this strategy: Locator map: 
+- native content: "By.chained({By.xpath: //android.widget.TextView[contains(@resource-id,'txt_flcutuate_option')]})" 
+- html content: "by id or name "txt_Flcutuation""
+2018-09-03 16:10:18 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:36 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@75b38c36 (tried for 1 second(s) with 500 milliseconds interval)
+2018-09-03 16:10:18 ERROR TC_006_VerifyDashboardFluctuationInPriceDisplayed:37 - ======= finished testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 16:11:02 INFO  TestBase:84 - App launched successfully.
+2018-09-03 16:11:02 INFO  TC_006_VerifyDashboardFluctuationInPriceDisplayed:20 - ======= starting testDashboardFluctuationInPriceDisplayed() test========
+2018-09-03 16:11:05 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 16:11:06 INFO  HomePage:43 - clicked on Login button
+2018-09-03 16:11:12 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 16:11:18 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 16:11:22 INFO  LoginPage:53 - clicked on login button
+2018-09-03 16:11:32 INFO  DashboardPage:103 - clicked on flcutuate option icon.
+2018-09-03 16:11:33 INFO  DashboardPage:103 - clicked on flcutuate in price Option.
+2018-09-03 16:20:37 INFO  TestBase:84 - App launched successfully.
+2018-09-03 16:20:37 INFO  TC_011_VerifyDashboardShortlistNoOfProductsDisplayed:20 - ======= starting testDashboardShortlistNoOfProductsDisplayed() test========
+2018-09-03 16:20:41 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 16:20:42 INFO  HomePage:43 - clicked on Login button
+2018-09-03 16:20:48 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 16:20:54 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 16:20:58 INFO  LoginPage:53 - clicked on login button
+2018-09-03 16:21:03 INFO  DashboardPage:103 - No Of Shortlisted Product is : 2 PRODUCTS
+2018-09-03 16:21:03 INFO  DashboardPage:103 - No Of Shortlisted Product is : 2 PRODUCTS
+2018-09-03 16:21:05 INFO  TestBase:133 - App closed successfully.
+2018-09-03 16:22:01 INFO  TestBase:84 - App launched successfully.
+2018-09-03 16:22:01 INFO  TC_011_VerifyDashboardShortlistNoOfProductsDisplayed:20 - ======= starting testDashboardShortlistNoOfProductsDisplayed() test========
+2018-09-03 16:22:04 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 16:22:05 INFO  HomePage:43 - clicked on Login button
+2018-09-03 16:22:11 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 16:22:17 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 16:22:21 INFO  LoginPage:53 - clicked on login button
+2018-09-03 16:22:24 INFO  DashboardPage:103 - No Of Shortlisted Product is : 2 PRODUCTS
+2018-09-03 16:22:24 INFO  TC_011_VerifyDashboardShortlistNoOfProductsDisplayed:30 - ======= finished testDashboardShortlistNoOfProductsDisplayed() test========
+2018-09-03 16:22:26 INFO  TestBase:133 - App closed successfully.
+2018-09-03 16:36:06 INFO  TestBase:84 - App launched successfully.
+2018-09-03 16:36:06 INFO  TC_012_VerifyDashboardChartNoOfCategoryDisplayed:20 - ======= starting testDashboardChartNoOfCategoryDisplayed() test========
+2018-09-03 16:36:08 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 16:36:09 INFO  HomePage:43 - clicked on Login button
+2018-09-03 16:36:16 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 16:36:22 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 16:36:26 INFO  LoginPage:53 - clicked on login button
+2018-09-03 16:36:34 INFO  DashboardPage:103 - category chart no of category trackered current display status is : true
+2018-09-03 16:36:34 INFO  TC_012_VerifyDashboardChartNoOfCategoryDisplayed:30 - ======= finished testDashboardChartNoOfCategoryDisplayed() test========
+2018-09-03 16:36:36 INFO  TestBase:133 - App closed successfully.
+2018-09-03 16:46:19 INFO  TestBase:84 - App launched successfully.
+2018-09-03 16:46:19 INFO  TC_013_VerifyDashboardNoOfProductLeftToAddTrackerDisplayed:21 - ======= starting testDashboardNoOfProductLeftToAddTrackerDisplayed() test========
+2018-09-03 16:46:22 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 16:46:23 INFO  HomePage:43 - clicked on Login button
+2018-09-03 16:46:29 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 16:46:35 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 16:46:40 INFO  LoginPage:53 - clicked on login button
+2018-09-03 16:46:49 INFO  DashboardPage:107 - left to tracked count current display status is : true
+2018-09-03 16:46:49 INFO  TC_013_VerifyDashboardNoOfProductLeftToAddTrackerDisplayed:31 - ======= finished testDashboardNoOfProductLeftToAddTrackerDisplayed() test========
+2018-09-03 16:46:51 INFO  TestBase:133 - App closed successfully.
+2018-09-03 17:16:45 INFO  TestBase:84 - App launched successfully.
+2018-09-03 17:16:45 INFO  TC_006_VerifyDashboardFluctuationInPriceLinkDisplayed:20 - ======= starting testDashboardFluctuationInPriceLinkDisplayed() test========
+2018-09-03 17:16:48 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 17:16:48 INFO  HomePage:43 - clicked on Login button
+2018-09-03 17:16:55 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 17:17:01 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 17:17:05 INFO  LoginPage:53 - clicked on login button
+2018-09-03 17:17:13 INFO  DashboardPage:117 - clicked on flcutuate option icon.
+2018-09-03 17:17:14 INFO  DashboardPage:117 - clicked on flcutuate in price Option.
+2018-09-03 17:32:22 ERROR TC_006_VerifyDashboardFluctuationInPriceLinkDisplayed:37 - Exception is: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Android bootstrap socket crashed: Error: This socket has been ended by the other party (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:19.891Z'
+System info: host: 'DESKTOP-1KP87H6', ip: '192.168.201.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Deepak_Gupta\Workspace\U..., appActivity: com.app.barrel13.SplashActi..., appPackage: com.app.barrel13, autoGrantPermissions: true, databaseEnabled: false, desired: {app: C:\Deepak_Gupta\Workspace\U..., appActivity: com.app.barrel13.SplashActi..., appPackage: com.app.barrel13, autoGrantPermissions: true, deviceName: Android Emulator, newCommandTimeout: 20, noReset: false, platformName: Android, platformVersion: 7.0}, deviceManufacturer: Genymotion, deviceModel: Google Nexus 5X - 7.0.0 - A..., deviceName: 192.168.201.101:5555, deviceScreenSize: 1080x1920, deviceUDID: 192.168.201.101:5555, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 20, noReset: false, platform: LINUX, platformName: LINUX, platformVersion: 7.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}
+Session ID: fc7d3c0d-ba22-4449-b56f-95375ac6ea83
+*** Element info: {Using=xpath, value=//android.widget.TextView[contains(@resource-id,'txt_flcutuate_option') and @text='FLUCTUATION IN PRICE']}
+2018-09-03 17:32:22 ERROR TC_006_VerifyDashboardFluctuationInPriceLinkDisplayed:38 - org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Android bootstrap socket crashed: Error: This socket has been ended by the other party (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:19.891Z'
+System info: host: 'DESKTOP-1KP87H6', ip: '192.168.201.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Deepak_Gupta\Workspace\U..., appActivity: com.app.barrel13.SplashActi..., appPackage: com.app.barrel13, autoGrantPermissions: true, databaseEnabled: false, desired: {app: C:\Deepak_Gupta\Workspace\U..., appActivity: com.app.barrel13.SplashActi..., appPackage: com.app.barrel13, autoGrantPermissions: true, deviceName: Android Emulator, newCommandTimeout: 20, noReset: false, platformName: Android, platformVersion: 7.0}, deviceManufacturer: Genymotion, deviceModel: Google Nexus 5X - 7.0.0 - A..., deviceName: 192.168.201.101:5555, deviceScreenSize: 1080x1920, deviceUDID: 192.168.201.101:5555, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 20, noReset: false, platform: LINUX, platformName: LINUX, platformVersion: 7.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}
+Session ID: fc7d3c0d-ba22-4449-b56f-95375ac6ea83
+*** Element info: {Using=xpath, value=//android.widget.TextView[contains(@resource-id,'txt_flcutuate_option') and @text='FLUCTUATION IN PRICE']}
+2018-09-03 17:32:22 ERROR TC_006_VerifyDashboardFluctuationInPriceLinkDisplayed:39 - ======= finished testDashboardFluctuationInPriceLinkDisplayed() test========
+2018-09-03 17:33:12 INFO  TestBase:84 - App launched successfully.
+2018-09-03 17:33:12 INFO  TC_006_VerifyDashboardFluctuationInPriceLinkDisplayed:20 - ======= starting testDashboardFluctuationInPriceLinkDisplayed() test========
+2018-09-03 17:33:14 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 17:33:15 INFO  HomePage:43 - clicked on Login button
+2018-09-03 17:33:21 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 17:33:26 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 17:33:31 INFO  LoginPage:53 - clicked on login button
+2018-09-03 17:33:40 INFO  DashboardPage:122 - clicked on flcutuate option icon.
+2018-09-03 17:33:41 INFO  DashboardPage:122 - clicked on flcutuate in price Option.
+2018-09-03 17:35:28 INFO  TestBase:84 - App launched successfully.
+2018-09-03 17:35:28 INFO  TC_006_VerifyDashboardFluctuationInPriceLinkDisplayed:20 - ======= starting testDashboardFluctuationInPriceLinkDisplayed() test========
+2018-09-03 17:35:31 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 17:35:32 INFO  HomePage:43 - clicked on Login button
+2018-09-03 17:35:38 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 17:35:45 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 17:35:49 INFO  LoginPage:53 - clicked on login button
+2018-09-03 17:35:58 INFO  DashboardPage:122 - clicked on flcutuate option icon.
+2018-09-03 17:35:58 INFO  DashboardPage:122 - clicked on flcutuate in price Option.
+2018-09-03 17:38:48 ERROR TC_006_VerifyDashboardFluctuationInPriceLinkDisplayed:37 - Exception is: A session is either terminated or not started (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:19.891Z'
+System info: host: 'DESKTOP-1KP87H6', ip: '192.168.201.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Deepak_Gupta\Workspace\U..., appActivity: com.app.barrel13.SplashActi..., appPackage: com.app.barrel13, autoGrantPermissions: true, databaseEnabled: false, desired: {app: C:\Deepak_Gupta\Workspace\U..., appActivity: com.app.barrel13.SplashActi..., appPackage: com.app.barrel13, autoGrantPermissions: true, deviceName: Android Emulator, newCommandTimeout: 20, noReset: false, platformName: Android, platformVersion: 7.0}, deviceManufacturer: Genymotion, deviceModel: Google Nexus 5X - 7.0.0 - A..., deviceName: 192.168.201.101:5555, deviceScreenSize: 1080x1920, deviceUDID: 192.168.201.101:5555, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 20, noReset: false, platform: LINUX, platformName: LINUX, platformVersion: 7.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}
+Session ID: 6894fe55-a74a-4763-94be-05ab8d4a2459
+2018-09-03 17:38:48 ERROR TC_006_VerifyDashboardFluctuationInPriceLinkDisplayed:38 - 
+2018-09-03 17:38:48 ERROR TC_006_VerifyDashboardFluctuationInPriceLinkDisplayed:39 - ======= finished testDashboardFluctuationInPriceLinkDisplayed() test========
+2018-09-03 17:39:30 INFO  TestBase:84 - App launched successfully.
+2018-09-03 17:39:30 INFO  TC_006_VerifyDashboardFluctuationInPriceLinkDisplayed:20 - ======= starting testDashboardFluctuationInPriceLinkDisplayed() test========
+2018-09-03 17:39:33 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 17:39:34 INFO  HomePage:43 - clicked on Login button
+2018-09-03 17:39:40 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 17:39:46 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 17:39:50 INFO  LoginPage:53 - clicked on login button
+2018-09-03 17:39:58 INFO  DashboardPage:122 - clicked on flcutuate option icon.
+2018-09-03 17:40:00 INFO  DashboardPage:122 - Flcutuate In Price current display status is : true
+2018-09-03 17:40:00 INFO  TC_006_VerifyDashboardFluctuationInPriceLinkDisplayed:32 - ======= finished testDashboardFluctuationInPriceLinkDisplayed() test========
+2018-09-03 17:40:02 INFO  TestBase:133 - App closed successfully.
+2018-09-03 17:42:10 INFO  TestBase:84 - App launched successfully.
+2018-09-03 17:42:10 INFO  TC_007_VerifyDashboardFluctuationInRankLinkDisplayed:20 - ======= starting testDashboardFluctuationInRankLinkDisplayed() test========
+2018-09-03 17:42:13 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 17:42:13 INFO  HomePage:43 - clicked on Login button
+2018-09-03 17:42:20 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 17:42:26 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 17:42:30 INFO  LoginPage:53 - clicked on login button
+2018-09-03 17:42:39 INFO  DashboardPage:122 - clicked on flcutuate option icon.
+2018-09-03 17:42:40 INFO  DashboardPage:122 - Flcutuate In Rank current display status is : true
+2018-09-03 17:42:40 INFO  TC_007_VerifyDashboardFluctuationInRankLinkDisplayed:32 - ======= finished testDashboardFluctuationInRankLinkDisplayed() test========
+2018-09-03 17:42:42 INFO  TestBase:133 - App closed successfully.
+2018-09-03 17:55:28 INFO  TestBase:84 - App launched successfully.
+2018-09-03 17:55:28 INFO  TC_014_VerifyDashboardNoOfFluctuationInPriceDisplayed:20 - ======= starting testDashboardNoOfFluctuationInPriceDisplayed() test========
+2018-09-03 17:55:31 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 17:55:31 INFO  HomePage:43 - clicked on Login button
+2018-09-03 17:55:37 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 17:55:43 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 17:55:48 INFO  LoginPage:53 - clicked on login button
+2018-09-03 17:56:08 ERROR TC_014_VerifyDashboardNoOfFluctuationInPriceDisplayed:34 - Exception is: Can't locate an element by this strategy: Locator map: 
+- native content: "By.chained({By.xpath: //android.widget.TextView[@text='Fluctuation in Price']})" 
+- html content: "by id or name "link_FlcutuateInPrice""
+2018-09-03 17:56:08 ERROR TC_014_VerifyDashboardNoOfFluctuationInPriceDisplayed:35 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@3a1706e1 (tried for 1 second(s) with 500 milliseconds interval)
+2018-09-03 17:56:08 ERROR TC_014_VerifyDashboardNoOfFluctuationInPriceDisplayed:36 - ======= finished testDashboardNoOfFluctuationInPriceDisplayed() test========
+2018-09-03 17:56:11 INFO  TestBase:133 - App closed successfully.
+2018-09-03 17:56:52 INFO  TestBase:84 - App launched successfully.
+2018-09-03 17:56:52 INFO  TC_014_VerifyDashboardNoOfFluctuationInPriceDisplayed:20 - ======= starting testDashboardNoOfFluctuationInPriceDisplayed() test========
+2018-09-03 17:56:55 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 17:56:56 INFO  HomePage:43 - clicked on Login button
+2018-09-03 17:57:02 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 17:57:08 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 17:57:12 INFO  LoginPage:53 - clicked on login button
+2018-09-03 17:57:33 ERROR TC_014_VerifyDashboardNoOfFluctuationInPriceDisplayed:34 - Exception is: Can't locate an element by this strategy: Locator map: 
+- native content: "By.chained({By.xpath: //android.widget.TextView[@text='Fluctuation in Price']})" 
+- html content: "by id or name "link_FlcutuateInPrice""
+2018-09-03 17:57:33 ERROR TC_014_VerifyDashboardNoOfFluctuationInPriceDisplayed:35 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@550de6b8 (tried for 1 second(s) with 500 milliseconds interval)
+2018-09-03 17:57:33 ERROR TC_014_VerifyDashboardNoOfFluctuationInPriceDisplayed:36 - ======= finished testDashboardNoOfFluctuationInPriceDisplayed() test========
+2018-09-03 17:57:35 INFO  TestBase:133 - App closed successfully.
+2018-09-03 17:59:04 INFO  TestBase:84 - App launched successfully.
+2018-09-03 17:59:04 INFO  TC_014_VerifyDashboardNoOfFluctuationInPriceDisplayed:20 - ======= starting testDashboardNoOfFluctuationInPriceDisplayed() test========
+2018-09-03 17:59:07 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 17:59:08 INFO  HomePage:43 - clicked on Login button
+2018-09-03 17:59:14 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 17:59:20 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 17:59:25 INFO  LoginPage:53 - clicked on login button
+2018-09-03 17:59:34 INFO  DashboardPage:126 - clicked on flcutuate option icon.
+2018-09-03 17:59:35 INFO  DashboardPage:126 - clicked on flcutuate in price Option.
+2018-09-03 18:00:14 ERROR TC_014_VerifyDashboardNoOfFluctuationInPriceDisplayed:33 - Exception is: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:19.891Z'
+System info: host: 'DESKTOP-1KP87H6', ip: '192.168.201.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Deepak_Gupta\Workspace\U..., appActivity: com.app.barrel13.SplashActi..., appPackage: com.app.barrel13, autoGrantPermissions: true, databaseEnabled: false, desired: {app: C:\Deepak_Gupta\Workspace\U..., appActivity: com.app.barrel13.SplashActi..., appPackage: com.app.barrel13, autoGrantPermissions: true, deviceName: Android Emulator, newCommandTimeout: 20, noReset: false, platformName: Android, platformVersion: 7.0}, deviceManufacturer: Genymotion, deviceModel: Google Nexus 5X - 7.0.0 - A..., deviceName: 192.168.201.101:5555, deviceScreenSize: 1080x1920, deviceUDID: 192.168.201.101:5555, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 20, noReset: false, platform: LINUX, platformName: LINUX, platformVersion: 7.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}
+Session ID: 7304a552-5822-4a0e-912a-1b304203688e
+*** Element info: {Using=-android uiautomator, value=new UiScrollable(new UiSelector().scrollable(true).instance(0)).scrollIntoView(new UiSelector().textContains("FLUCTUATION IN PRICE").instance(0))}
+2018-09-03 18:00:14 ERROR TC_014_VerifyDashboardNoOfFluctuationInPriceDisplayed:34 - 
+2018-09-03 18:00:14 ERROR TC_014_VerifyDashboardNoOfFluctuationInPriceDisplayed:35 - ======= finished testDashboardNoOfFluctuationInPriceDisplayed() test========
+2018-09-03 18:00:16 INFO  TestBase:133 - App closed successfully.
+2018-09-03 18:06:46 INFO  TestBase:84 - App launched successfully.
+2018-09-03 18:06:46 INFO  TC_017_VerifyDashboardNavigateToShortlistScreen:20 - ======= starting testDashboardNavigateToShortlistScreen() test========
+2018-09-03 18:06:49 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 18:06:50 INFO  HomePage:43 - clicked on Login button
+2018-09-03 18:06:55 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 18:07:01 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 18:07:05 INFO  LoginPage:53 - clicked on login button
+2018-09-03 18:07:09 INFO  DashboardPage:126 - clicked on shortlist button.
+2018-09-03 18:07:09 INFO  TC_017_VerifyDashboardNavigateToShortlistScreen:32 - ======= finished testDashboardNavigateToShortlistScreen() test========
+2018-09-03 18:07:12 INFO  TestBase:133 - App closed successfully.
+2018-09-03 18:12:43 INFO  TestBase:84 - App launched successfully.
+2018-09-03 18:12:43 INFO  TC_017_VerifyDashboardNavigateToShortlistScreen:21 - ======= starting testDashboardNavigateToShortlistScreen() test========
+2018-09-03 18:12:46 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 18:12:47 INFO  HomePage:43 - clicked on Login button
+2018-09-03 18:12:53 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 18:13:00 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 18:13:04 INFO  LoginPage:53 - clicked on login button
+2018-09-03 18:13:08 INFO  DashboardPage:123 - clicked on shortlist button.
+2018-09-03 18:13:09 INFO  ShortlistPage:28 - Header Name is : SHORTLISTED(2)
+2018-09-03 18:13:12 INFO  TestBase:133 - App closed successfully.
+2018-09-03 18:16:51 INFO  TestBase:84 - App launched successfully.
+2018-09-03 18:16:51 INFO  TC_017_VerifyDashboardNavigateToShortlistScreen:20 - ======= starting testDashboardNavigateToShortlistScreen() test========
+2018-09-03 18:16:54 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 18:16:54 INFO  HomePage:43 - clicked on Login button
+2018-09-03 18:17:01 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 18:17:06 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 18:17:11 INFO  LoginPage:53 - clicked on login button
+2018-09-03 18:17:15 INFO  DashboardPage:123 - shortlist button current display status is : true
+2018-09-03 18:17:16 INFO  DashboardPage:123 - clicked on shortlist button.
+2018-09-03 18:17:16 INFO  TC_017_VerifyDashboardNavigateToShortlistScreen:31 - ======= finished testDashboardNavigateToShortlistScreen() test========
+2018-09-03 18:17:18 INFO  TestBase:133 - App closed successfully.
+2018-09-03 18:23:32 INFO  TestBase:84 - App launched successfully.
+2018-09-03 18:23:32 INFO  TC_017_VerifyDashboardNavigateToShortlistScreen:21 - ======= starting testDashboardNavigateToShortlistScreen() test========
+2018-09-03 18:23:36 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 18:23:37 INFO  HomePage:43 - clicked on Login button
+2018-09-03 18:23:43 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 18:23:49 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 18:23:54 INFO  LoginPage:53 - clicked on login button
+2018-09-03 18:24:00 INFO  DashboardPage:123 - clicked on shortlist button.
+2018-09-03 18:24:00 INFO  ShortlistPage:28 - Header Name is : SHORTLISTED(2)
+2018-09-03 18:24:00 INFO  TC_017_VerifyDashboardNavigateToShortlistScreen:40 - ======= finished testDashboardNavigateToShortlistScreen() test========
+2018-09-03 18:24:02 INFO  TestBase:133 - App closed successfully.
+2018-09-03 18:25:01 INFO  TestBase:84 - App launched successfully.
+2018-09-03 18:25:01 INFO  TC_017_VerifyDashboardNavigateToShortlistScreen:21 - ======= starting testDashboardNavigateToShortlistScreen() test========
+2018-09-03 18:25:04 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 18:25:05 INFO  HomePage:43 - clicked on Login button
+2018-09-03 18:25:11 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 18:25:17 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 18:25:21 INFO  LoginPage:53 - clicked on login button
+2018-09-03 18:25:25 INFO  DashboardPage:123 - clicked on shortlist button.
+2018-09-03 18:25:27 INFO  ShortlistPage:28 - Header Name is : SHORTLISTED(2)
+2018-09-03 18:25:27 INFO  TC_017_VerifyDashboardNavigateToShortlistScreen:39 - ======= finished testDashboardNavigateToShortlistScreen() test========
+2018-09-03 18:25:29 INFO  TestBase:133 - App closed successfully.
+2018-09-03 18:30:53 INFO  TestBase:84 - App launched successfully.
+2018-09-03 18:30:53 INFO  TC_018_VerifyDashboardNavigateToProductDatbaseScreen:21 - ======= starting testDashboardNavigateToProductDatbaseScreen() test========
+2018-09-03 18:30:55 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-03 18:30:56 INFO  HomePage:43 - clicked on Login button
+2018-09-03 18:31:02 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-03 18:31:08 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-03 18:31:13 INFO  LoginPage:53 - clicked on login button
+2018-09-03 18:31:20 INFO  DashboardPage:123 - clicked on product database button.
+2018-09-03 18:31:32 INFO  ProductDatabasePage:28 - Header Name is : PRODUCT DATABASE
+2018-09-03 18:31:32 INFO  TC_018_VerifyDashboardNavigateToProductDatbaseScreen:34 - ======= finished testDashboardNavigateToProductDatbaseScreen() test========
+2018-09-03 18:31:34 INFO  TestBase:133 - App closed successfully.
+2018-09-04 10:11:35 INFO  TestBase:95 - Driver : Android: null
+2018-09-04 10:11:35 INFO  TestBase:96 - App installed successfully.
+2018-09-04 10:11:37 INFO  TestBase:39 - App closed successfully.
+2018-09-04 10:24:36 INFO  TestBase:81 - Driver : Android: null
+2018-09-04 10:24:36 INFO  TestBase:84 - App launched successfully.
+2018-09-04 10:24:36 INFO  TC_002_VerifyLoginLogout:21 - ======= starting testLogin() test========
+2018-09-04 10:24:39 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-04 10:24:39 INFO  HomePage:43 - clicked on Login button
+2018-09-04 10:24:45 INFO  LoginPage:53 - entered email is:- deepak.g@applify.co
+2018-09-04 10:24:51 INFO  LoginPage:53 - entered password is:- deepak123
+2018-09-04 10:24:56 INFO  LoginPage:53 - clicked on login button
+2018-09-04 10:24:58 INFO  DashboardPage:123 - Header Name is : DASHBOARD
+2018-09-04 10:24:58 INFO  TC_002_VerifyLoginLogout:31 - ======= finished testLogin() test========
+2018-09-04 10:24:58 INFO  TC_002_VerifyLoginLogout:45 - ======= starting testLogout() test========
+2018-09-04 10:25:00 INFO  DashboardPage:123 - clicked on Menu Option.
+2018-09-04 10:25:07 INFO  DashboardPage:123 - clicked on sub menu Settings from Menu Option.
+2018-09-04 10:25:14 INFO  DashboardPage:123 - clicked on Logout.
+2018-09-04 10:25:15 INFO  DashboardPage:123 - clicked on Confirm button.
+2018-09-04 10:25:17 INFO  TC_002_VerifyLoginLogout:53 - ======= finished testLogout() test========
+2018-09-04 10:25:19 INFO  TestBase:133 - App closed successfully.
+2018-09-04 10:28:53 INFO  TestBase:89 - Driver : Android: null
+2018-09-04 10:28:53 INFO  TestBase:92 - App launched successfully.
+2018-09-04 10:28:53 INFO  TC_001_VerifyLoginScreenHeaderName:19 - ======= starting testLoginScreenHeaderName() test========
+2018-09-04 10:28:56 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-04 10:28:56 INFO  HomePage:43 - clicked on Login button
+2018-09-04 10:28:57 INFO  LoginPage:53 - header name is : LOGIN
+2018-09-04 10:28:57 INFO  TC_001_VerifyLoginScreenHeaderName:26 - ======= finished testLoginScreenHeaderName() test========
+2018-09-04 10:28:59 INFO  TestBase:141 - App closed successfully.
+2018-09-04 10:30:46 INFO  TestBase:83 - Driver : Android: null
+2018-09-04 10:30:46 INFO  TestBase:87 - App launched successfully.
+2018-09-04 10:30:46 INFO  TC_001_VerifyLoginScreenHeaderName:19 - ======= starting testLoginScreenHeaderName() test========
+2018-09-04 10:30:49 INFO  HomePage:43 - login button is enabled and displayed.
+2018-09-04 10:30:50 INFO  HomePage:43 - clicked on Login button
+2018-09-04 10:30:51 INFO  LoginPage:53 - header name is : LOGIN
+2018-09-04 10:30:51 INFO  TC_001_VerifyLoginScreenHeaderName:26 - ======= finished testLoginScreenHeaderName() test========
+2018-09-04 15:01:45 INFO  TestBase:83 - Driver : io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Deepak_Gupta\Workspace\UI_Barrel13_Mobile_App\App\Barrel13.apk, appActivity=com.app.barrel13.SplashActivity, appPackage=com.app.barrel13, autoGrantPermissions=true, databaseEnabled=false, desired={app=C:\Deepak_Gupta\Workspace\UI_Barrel13_Mobile_App\App\Barrel13.apk, appActivity=com.app.barrel13.SplashActivity, appPackage=com.app.barrel13, noReset=false, newCommandTimeout=30, platformVersion=7.0, autoGrantPermissions=true, platformName=Android, deviceName=Android Emulator}, deviceManufacturer=Genymotion, deviceModel=Google Nexus 5X - 7.0.0 - API 24 - 1080x1920, deviceName=192.168.201.101:5555, deviceScreenSize=1080x1920, deviceUDID=192.168.201.101:5555, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=30, noReset=false, platform=LINUX, platformName=Android, platformVersion=7.0, takesScreenshot=true, warnings={}, webStorageEnabled=false}
+2018-09-04 15:01:45 INFO  TestBase:87 - App launched successfully.
+2018-09-04 15:01:45 INFO  TC_001_VerifySignUpButton:18 - ======= starting testSignUpButton() test========
+2018-09-04 15:01:46 INFO  HomePage:43 - signup button is enabled and displayed.
+2018-09-04 15:01:47 INFO  HomePage:43 - clicked on Sign up button
+2018-09-04 15:01:47 INFO  TC_001_VerifySignUpButton:22 - ======= finished testSignUpButton() test========
+2018-09-04 15:03:04 INFO  TestBase:89 - Driver : io.appium.java_client.android.AndroidDriver, Capabilities: {app=C:\Deepak_Gupta\Workspace\UI_Barrel13_Mobile_App\App\Barrel13.apk, appActivity=com.app.barrel13.SplashActivity, appPackage=com.app.barrel13, autoGrantPermissions=true, databaseEnabled=false, desired={app=C:\Deepak_Gupta\Workspace\UI_Barrel13_Mobile_App\App\Barrel13.apk, appActivity=com.app.barrel13.SplashActivity, appPackage=com.app.barrel13, noReset=false, newCommandTimeout=20, platformVersion=7.0, autoGrantPermissions=true, platformName=Android, deviceName=Android Emulator}, deviceManufacturer=Genymotion, deviceModel=Google Nexus 5X - 7.0.0 - API 24 - 1080x1920, deviceName=192.168.201.101:5555, deviceScreenSize=1080x1920, deviceUDID=192.168.201.101:5555, javascriptEnabled=true, locationContextEnabled=false, networkConnectionEnabled=true, newCommandTimeout=20, noReset=false, platform=LINUX, platformName=Android, platformVersion=7.0, takesScreenshot=true, warnings={}, webStorageEnabled=false}
+2018-09-04 15:03:04 INFO  TestBase:92 - App launched successfully.
+2018-09-04 15:03:04 INFO  TC_001_VerifySignUpButton:18 - ======= starting testSignUpButton() test========
+2018-09-04 15:03:07 INFO  HomePage:43 - signup button is enabled and displayed.
+2018-09-04 15:03:08 INFO  HomePage:43 - clicked on Sign up button
+2018-09-04 15:03:08 INFO  TC_001_VerifySignUpButton:22 - ======= finished testSignUpButton() test========
+2018-09-04 15:03:10 INFO  TestBase:141 - App closed successfully.

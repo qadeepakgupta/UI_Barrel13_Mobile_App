@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Login Module Suite">
+  <test  name="Regression Test">
+    <classes>
+      <class name="com.test.loginModule.TC_001_VerifyLoginScreenHeaderName"/>
+      <class name="com.test.loginModule.TC_002_VerifyLoginLogout"/>  
+      <class name="com.test.loginModule.TC_003_VerifyLoginWithInvalidData"/>
+      <class name="com.test.loginModule.TC_004_VerifyLoginWithInvalidPassword"/>
+      <class name="com.test.loginModule.TC_005_VerifyLoginWithInvalidUsername"/>
+    
+    </classes>
+  </test> <!-- Regression Test -->
+</suite> <!-- Login Module Suite -->

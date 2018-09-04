@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Appium_Jars/asm-6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Appium_Jars/cglib-3.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Appium_Jars/selenium-server-standalone-3.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/POI_Jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Toast_Jars/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Toast_Jars/ghost4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Toast_Jars/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Toast_Jars/jna-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Toast_Jars/jna-platform-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Toast_Jars/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Toast_Jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Toast_Jars/lept4j-1.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Toast_Jars/log4j-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Toast_Jars/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Toast_Jars/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Toast_Jars/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Toast_Jars/tess4j-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Deepak_Gupta/Workspace/UI_Barrel13_Mobile_App/libs/Appium_Jars/java-client-6.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
